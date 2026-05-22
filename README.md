@@ -11,3 +11,5 @@ Copy and paste cache.py to your language model codebase, and replace the origina
 ## Eval
 Collect answers in LLaVA-v1.5 validation jsonl manner
 and use auto_eval.py with your own evaluation model api.
+
+More details are still under preperation.
